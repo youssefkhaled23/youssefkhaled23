@@ -47,13 +47,13 @@
 
 ### 🌐 تواصل معي
 <p align="center">
-  <a href="mailto:yousefkhaled@example.com">
+  <a href="mailto:khaledalsbaa2@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yousefkhaled" target="_blank">
+  <a href="www.linkedin.com/in/youssef-khaled-550991360" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="https://github.com/yousefkhaled" target="_blank">
+  <a href="https://github.com/yousefkhaled23" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
   </a>
 </p>
