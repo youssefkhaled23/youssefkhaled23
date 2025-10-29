@@ -1,46 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">👋 مرحباً، أنا يوسف خالد</h1>
 
-###
+<p align="center">
+  <b>Frontend & Backend Developer</b><br>
+  React • Next.js • Vue • NestJS • Express • SQL • NoSQL
+</p>
 
-<p align="left">My name is yousef khaled and I'm a front end developer</p>
+---
 
-###
+### 💻 عني
+- 🧠 مطور واجهات أمامية وخلفية بخبرة في بناء تطبيقات ويب حديثة وسريعة.
+- 🚀 أعمل بتقنيات **React**, **Next.js**, **Vue** في الواجهة الأمامية.
+- ⚙️ أطور APIs باستخدام **NestJS** و **Express.js**.
+- 🗄️ أتعامل مع قواعد بيانات **PostgreSQL**, **MySQL**, و **MongoDB**.
+- 🎯 هدفي: بناء منتجات نظيفة، سريعة، وسهلة الصيانة.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🧩 المهارات التقنية
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,vite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,mongodb,prisma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" />
+</p>
 
-<p align="left">✨Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface,
-testing, and debugging processes. Bringing forth expertise in desgin, installation, testing and maintenance of
-web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies,
-including Java, ASP.NET, C#, IIS, Tomcat, and Microsoft SQL Server. Able to effectively self-manage during
-independent projects, as well as collaborate in a team setting</p>
+---
 
-###
+### 🚀 المشاريع المميزة
+| المشروع | التقنية | الوصف |
+|----------|-----------|--------|
+| 🛍️ **Next E-Commerce** | Next.js + MongoDB | متجر إلكتروني متكامل بواجهة حديثة |
+| 📅 **Vue CRM** | Vue 3 + Pinia | لوحة تحكم لإدارة العملاء |
+| 🔐 **Nest Auth API** | NestJS + Prisma + PostgreSQL | نظام تسجيل دخول JWT متكامل |
+| ⚡ **Express Blog API** | Express + MongoDB | API بسيطة للمدونات |
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 📈 إحصائيات GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefkhaled&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefkhaled&layout=compact&theme=radical" height="170"/>
+</p>
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
+---
 
-###
+### 🌐 تواصل معي
+<p align="center">
+  <a href="mailto:yousefkhaled@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yousefkhaled" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/yousefkhaled" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💡 "الكود النظيف هو أفضل توثيق ممكن."</p>
